@@ -1,7 +1,7 @@
 # Todo App
 This UI is designed for a todo app. I have designed this UI using **Figma**. Where I have created a **signin** page, **signup** page, **get started** page and nice looking **dash board** page.
 ## Prototype
-<img src="https://github.com/towhid135/UI-Design-Figma--Todo-App/blob/main/Prototype.gif" width="250" height="250"/>
+<img src="https://github.com/towhid135/UI-Design-Figma--Todo-App/blob/main/Prototype.gif" width="1080" height="2400"/>
 
 ## UI Design
 
